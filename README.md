@@ -1,4 +1,4 @@
-title: AEROGUIDE
+title: AEROSENSE APP
 emoji: 🚀
 colorFrom: red
 colorTo: red
