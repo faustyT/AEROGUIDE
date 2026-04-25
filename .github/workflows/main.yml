@@ -15,5 +15,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://faustytubo:$HF_TOKEN@huggingface.co/spaces/faustytubo/
-AEROSENSE_APP main
+        run: git push --force https://faustytubo:$HF_TOKEN@huggingface.co/spaces/faustytubo/AEROSENSE main
