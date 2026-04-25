@@ -2,10 +2,11 @@ title: AEROSENSE
 emoji: 🚀
 colorFrom: red
 colorTo: red
-sdk: streamlit
+sdk: docker
 app_port: 8501
 app_file: app.py
 tags:
 - streamlit
 pinned: false
 short_description: Streamlit template space
+sdk_version: 1.56.0
