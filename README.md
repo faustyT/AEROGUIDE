@@ -9,4 +9,3 @@ tags:
 - streamlit
 pinned: false
 short_description: Streamlit template space
-sdk_version: 1.56.0
